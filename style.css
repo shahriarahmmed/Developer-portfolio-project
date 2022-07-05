@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.home {
+   
+    display: flex;
+}
+.home-text {
+    width: 50%;
+}
+#name {
+    color: orange;
+    font-size: 30px;
+}
+/* #punchline{
+    background-color: yellow;
+
+} */
+.top-image {
+    height: 625px;
+    width: 600px;
+    margin: 20px;
+    margin-left: 250px;
+
+}
+.banner {
+    width: 50%;
+    align-items: center;
+}
